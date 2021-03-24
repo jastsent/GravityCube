@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Main atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 4096
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7848eba9cf43b044db50c8b63dfb094d, type: 3}
+    - {fileID: 102900000, guid: 7e94dd1bcc9720748bbbeaff408d6cac, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1b4b8b20312bcb446a1a5d5593b79834, type: 3}
+  - {fileID: 21300000, guid: 5f82f570ccf32b047b509441aef6dccc, type: 3}
+  - {fileID: 21300000, guid: dfc507a027e55024399276f61abe8b52, type: 3}
+  - {fileID: 21300000, guid: 2413f9b0255ab6c4e9685a9ea1e15c0c, type: 3}
+  - {fileID: 21300000, guid: 4a0cea514e191ce4b8ae9cf6ebb66e9c, type: 3}
+  - {fileID: 21300000, guid: 35bd66b16e7a54666804f30463a994e1, type: 3}
+  - {fileID: 21300000, guid: c14246f1a41264c40877ccdc05312ceb, type: 3}
+  - {fileID: 21300000, guid: 90d407a28d3c2a244bc343bea934aff0, type: 3}
+  - {fileID: 21300000, guid: 353708b27c4e0bf4b90186ea79227ece, type: 3}
+  - {fileID: 21300000, guid: a7a759b20bac4be4e8c150f450fa0331, type: 3}
+  - {fileID: 21300000, guid: edcfdec26a5e5dc4081252844f95c6a9, type: 3}
+  - {fileID: 21300000, guid: d5d02d1377ce980459c0d213dc333813, type: 3}
+  - {fileID: 21300000, guid: 4df035439b6c4af4f8db3b246c59e1ed, type: 3}
+  - {fileID: 21300000, guid: 952c59d3b47e048d99f17d078fc50aed, type: 3}
+  - {fileID: 21300000, guid: e4288234861fa2e4fbc6a0fbec1269dd, type: 3}
+  - {fileID: 21300000, guid: 42613144ed607954a8f964d155726e5b, type: 3}
+  - {fileID: 21300000, guid: 76b7ab8476c5e4a4d8838dc7c18a8a59, type: 3}
+  - {fileID: 21300000, guid: e8defca425121914d86eff49798b44d5, type: 3}
+  - {fileID: 21300000, guid: 21aee4f44bee356418e41555a8e4e66d, type: 3}
+  - {fileID: 21300000, guid: c90cfeb5a9245ee4c85fc8d10c0a963c, type: 3}
+  - {fileID: 21300000, guid: 8fa10206aefa055419de530308ef3fe4, type: 3}
+  - {fileID: 21300000, guid: b70aea16897db83458a760fe333fb4cc, type: 3}
+  - {fileID: 21300000, guid: 50fd1dc6263a0de4388a5c40cb34a5e8, type: 3}
+  - {fileID: 21300000, guid: c25af5f65ee2a4a45af46c9bdbacc3c3, type: 3}
+  - {fileID: 21300000, guid: 44227247c1e514649a1bfd30d9686f2b, type: 3}
+  - {fileID: 21300000, guid: 6ed58e87344c37945ab7cacc48b87aa4, type: 3}
+  - {fileID: 21300000, guid: 62e9d018e7fce024f881a2d8e7806572, type: 3}
+  - {fileID: 21300000, guid: 5f675588d281d27448fba4f92abcdace, type: 3}
+  - {fileID: 21300000, guid: 4cf4f8e85e057e046b907566ba0792dd, type: 3}
+  - {fileID: 21300000, guid: 3147b8097f6ffed4f8dac737013564c9, type: 3}
+  - {fileID: 21300000, guid: 7e6d290abb9b71f40a4d882c9cfa9fe2, type: 3}
+  - {fileID: 21300000, guid: 1965b18ae56366e4e8176ef7ab9e2334, type: 3}
+  - {fileID: 21300000, guid: 062e4cda4e285ed4a91e994428a1dc2d, type: 3}
+  - {fileID: 21300000, guid: b20ede1b23768e44db15cb8c7c15e130, type: 3}
+  - {fileID: 21300000, guid: 0bcca82c3eadd4c19aec9d5084910d9b, type: 3}
+  - {fileID: 21300000, guid: 39490f4d311f240368311fdbceff17b5, type: 3}
+  - {fileID: 21300000, guid: d00b89ee09502754f8531de75ff211e4, type: 3}
+  - {fileID: 21300000, guid: 7918932f373bf0344964eec84c4b5213, type: 3}
+  - {fileID: 21300000, guid: 99bd759f38103a54eac59f5001137160, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - play
+  - circle 128
+  - banan
+  - dollar
+  - cancel
+  - ETF_M_Texture_Ring_03
+  - accept
+  - sound_on
+  - star_02
+  - star
+  - home
+  - flayerX
+  - magnet
+  - ETF_M_Texture_Ray_03
+  - star_01
+  - pause
+  - Circle_contaryball
+  - planet_white
+  - atmosphere@4x
+  - tv
+  - repeat
+  - shop
+  - planet decal 3
+  - planet decal 1
+  - ETF_M_Texture_Ray_02
+  - ring
+  - sound_off
+  - planet decal 2
+  - multiply_powerup
+  - coin
+  - star_circle@0.5x
+  - engine_particle
+  - hit_03
+  - hit_02
+  - ETF_M_Texture_Flagment_01
+  - ETF_M_Texture_Explode_01
+  - shield_powerup
+  - lock
+  - circle 256
+  m_RenderDataMap: {}
+  m_Tag: Main atlas
+  m_IsVariant: 0
